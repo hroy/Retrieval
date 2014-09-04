@@ -1,0 +1,2469 @@
+This is the output file for SP2014 IR HW3. Student: Harichandan Roy, hxr121830
+
+
+Query      : what similarity laws must be obeyed when constructing aeroelastic models of heated high speed aircraft  
+Stemmed Query: similar,law,must,obei,construct,aeroelast,model,heat,high,speed,aircraft
+
+Top 10 Documents (Weight-1): 
+Rank          : 1
+Score         : 1.4169371646379973
+Document Id   : 486
+Document Name   : cranfield0486
+Document Title: similarity laws for aerothermoelastic testing .
+Rank          : 2
+Score         : 1.3106610091848376
+Document Id   : 12
+Document Name   : cranfield0012
+Document Title: some structural and aerelastic considerations of high
+speed flight .
+Rank          : 3
+Score         : 1.2882723562524006
+Document Id   : 51
+Document Name   : cranfield0051
+Document Title: theory of aircraft structural models subjected to aerodynamic
+heating and external loads .
+Rank          : 4
+Score         : 1.2662826804119605
+Document Id   : 573
+Document Name   : cranfield0573
+Document Title: viscous hypersonic similitude .
+Rank          : 5
+Score         : 1.177565977689306
+Document Id   : 329
+Document Name   : cranfield0329
+Document Title: various aerodynamic characteristics in hypersonic rarefied
+gas flow .
+Rank          : 6
+Score         : 1.0772592205152576
+Document Id   : 14
+Document Name   : cranfield0014
+Document Title: piston theory - a new aerodynamic tool for the aeroelastician
+.
+Rank          : 7
+Score         : 1.0520532724716356
+Document Id   : 665
+Document Name   : cranfield0665
+Document Title: on the theory of hypersonic gas flow with a power law
+shock wave .
+Rank          : 8
+Score         : 1.0505958417759307
+Document Id   : 184
+Document Name   : cranfield0184
+Document Title: scale models for thermo-aeroelastic research .
+Rank          : 9
+Score         : 0.9280482999216727
+Document Id   : 576
+Document Name   : cranfield0576
+Document Title: viscous and inviscid stagnation flow in a dissociated hypervelocity free
+ stream .
+Rank          : 10
+Score         : 0.9175704812899342
+Document Id   : 944
+Document Name   : cranfield0944
+Document Title: one dimensional heat conduction through the skin of
+a vehicle upon entering a planetary atmosphere at constant
+velocity and entry angle .
+
+Top 10 Documents (Weight-2): 
+Rank          : 1
+Score         : 3.347847693179502
+Document Id   : 486
+Document Name   : cranfield0486
+Document Title: similarity laws for aerothermoelastic testing .
+Rank          : 2
+Score         : 3.046432131036667
+Document Id   : 51
+Document Name   : cranfield0051
+Document Title: theory of aircraft structural models subjected to aerodynamic
+heating and external loads .
+Rank          : 3
+Score         : 2.743865285946802
+Document Id   : 329
+Document Name   : cranfield0329
+Document Title: various aerodynamic characteristics in hypersonic rarefied
+gas flow .
+Rank          : 4
+Score         : 2.6629781977670857
+Document Id   : 576
+Document Name   : cranfield0576
+Document Title: viscous and inviscid stagnation flow in a dissociated hypervelocity free
+ stream .
+Rank          : 5
+Score         : 2.5352371579074884
+Document Id   : 12
+Document Name   : cranfield0012
+Document Title: some structural and aerelastic considerations of high
+speed flight .
+Rank          : 6
+Score         : 2.4643893184734003
+Document Id   : 573
+Document Name   : cranfield0573
+Document Title: viscous hypersonic similitude .
+Rank          : 7
+Score         : 2.4149410924212766
+Document Id   : 878
+Document Name   : cranfield0878
+Document Title: experimental model techniques and equipment for flutter
+investigations .
+Rank          : 8
+Score         : 2.2954244891458933
+Document Id   : 14
+Document Name   : cranfield0014
+Document Title: piston theory - a new aerodynamic tool for the aeroelastician
+.
+Rank          : 9
+Score         : 2.244030138932407
+Document Id   : 1263
+Document Name   : cranfield1263
+Document Title: turbulent heat transfer through a highly cooled, partially
+dissociated boundary layer .
+Rank          : 10
+Score         : 2.2298082204585685
+Document Id   : 1268
+Document Name   : cranfield1268
+Document Title: stable combustion of a high-velocity gas in a heated
+boundary layer .
+
+Query      : what are the structural and aeroelastic problems associated with flight of high speed aircraft  
+Stemmed Query: structur,aeroelast,problem,associ,flight,high,speed,aircraft
+
+Top 10 Documents (Weight-1): 
+Rank          : 1
+Score         : 1.9152179838957661
+Document Id   : 12
+Document Name   : cranfield0012
+Document Title: some structural and aerelastic considerations of high
+speed flight .
+Rank          : 2
+Score         : 1.2508330727629986
+Document Id   : 14
+Document Name   : cranfield0014
+Document Title: piston theory - a new aerodynamic tool for the aeroelastician
+.
+Rank          : 3
+Score         : 1.0753810621992368
+Document Id   : 746
+Document Name   : cranfield0746
+Document Title: aeroelastic problems in connection with high speed
+flight .
+Rank          : 4
+Score         : 0.9888271682517116
+Document Id   : 51
+Document Name   : cranfield0051
+Document Title: theory of aircraft structural models subjected to aerodynamic
+heating and external loads .
+Rank          : 5
+Score         : 0.9812040169813898
+Document Id   : 172
+Document Name   : cranfield0172
+Document Title: some aerodynamic considerations of nozzle afterbody
+combination .
+Rank          : 6
+Score         : 0.9589566695288183
+Document Id   : 1169
+Document Name   : cranfield1169
+Document Title: hangling qualities experience with several vtol research
+aircraft .
+Rank          : 7
+Score         : 0.929183219017151
+Document Id   : 100
+Document Name   : cranfield0100
+Document Title: vibration isolation of aircraft power plants .
+Rank          : 8
+Score         : 0.9187863028520719
+Document Id   : 1380
+Document Name   : cranfield1380
+Document Title: the problem of obtaining high lift-drag ratios at supersonic speeds .
+Rank          : 9
+Score         : 0.9131621528953181
+Document Id   : 141
+Document Name   : cranfield0141
+Document Title: free-flight techniques for high speed aerodynamic research .
+Rank          : 10
+Score         : 0.8848676831387923
+Document Id   : 792
+Document Name   : cranfield0792
+Document Title: some low speed problems of high speed aircraft .
+
+Top 10 Documents (Weight-2): 
+Rank          : 1
+Score         : 3.586125782288617
+Document Id   : 12
+Document Name   : cranfield0012
+Document Title: some structural and aerelastic considerations of high
+speed flight .
+Rank          : 2
+Score         : 2.74870867607933
+Document Id   : 14
+Document Name   : cranfield0014
+Document Title: piston theory - a new aerodynamic tool for the aeroelastician
+.
+Rank          : 3
+Score         : 2.7112319860391336
+Document Id   : 1380
+Document Name   : cranfield1380
+Document Title: the problem of obtaining high lift-drag ratios at supersonic speeds .
+Rank          : 4
+Score         : 2.70642001204447
+Document Id   : 172
+Document Name   : cranfield0172
+Document Title: some aerodynamic considerations of nozzle afterbody
+combination .
+Rank          : 5
+Score         : 2.4788696383021955
+Document Id   : 51
+Document Name   : cranfield0051
+Document Title: theory of aircraft structural models subjected to aerodynamic
+heating and external loads .
+Rank          : 6
+Score         : 2.402220190783934
+Document Id   : 746
+Document Name   : cranfield0746
+Document Title: aeroelastic problems in connection with high speed
+flight .
+Rank          : 7
+Score         : 2.3496136507485725
+Document Id   : 1089
+Document Name   : cranfield1089
+Document Title: aerodynamic characteristics of propeller-driven vtol
+aircraft .
+Rank          : 8
+Score         : 2.28727451049212
+Document Id   : 658
+Document Name   : cranfield0658
+Document Title: review of panel flutter and effects of aerodynamic noise
+part i..  panel flutter .
+Rank          : 9
+Score         : 2.283895393202685
+Document Id   : 1263
+Document Name   : cranfield1263
+Document Title: turbulent heat transfer through a highly cooled, partially
+dissociated boundary layer .
+Rank          : 10
+Score         : 2.272621602826896
+Document Id   : 486
+Document Name   : cranfield0486
+Document Title: similarity laws for aerothermoelastic testing .
+
+Query      : what problems of heat conduction in composite slabs have been solved so far  
+Stemmed Query: problem,heat,conduct,composit,slab,solv,so,far
+
+Top 10 Documents (Weight-1): 
+Rank          : 1
+Score         : 1.5832863098018226
+Document Id   : 485
+Document Name   : cranfield0485
+Document Title: linear heat flow in a composite slab .
+Rank          : 2
+Score         : 1.2776103101886198
+Document Id   : 5
+Document Name   : cranfield0005
+Document Title: one-dimensional transient heat conduction into a double-layer
+slab subjected to a linear heat input for a small time
+internal .
+Rank          : 3
+Score         : 1.25218382725686
+Document Id   : 1072
+Document Name   : cranfield1072
+Document Title: ignition and combustion in a laminar mixing zone .
+Rank          : 4
+Score         : 1.154361543196016
+Document Id   : 144
+Document Name   : cranfield0144
+Document Title: heat flow in composite slabs .
+Rank          : 5
+Score         : 1.137410074027193
+Document Id   : 91
+Document Name   : cranfield0091
+Document Title: periodic temperature distribution in a two-layer composite slab .
+Rank          : 6
+Score         : 1.0804961672410558
+Document Id   : 90
+Document Name   : cranfield0090
+Document Title: periodic temperature distributions in a two-layer composite
+slab .
+Rank          : 7
+Score         : 1.075488809479153
+Document Id   : 399
+Document Name   : cranfield0399
+Document Title: conduction of heat in composite slabs .
+Rank          : 8
+Score         : 1.0459132973445115
+Document Id   : 181
+Document Name   : cranfield0181
+Document Title: some problems on heat conduction in stratiform bodies .
+Rank          : 9
+Score         : 0.9432209871772741
+Document Id   : 579
+Document Name   : cranfield0579
+Document Title: further developments of new methods in heat flow analysis .
+Rank          : 10
+Score         : 0.9248091331333721
+Document Id   : 344
+Document Name   : cranfield0344
+Document Title: some experimental techniques in mass transfer cooling .
+
+Top 10 Documents (Weight-2): 
+Rank          : 1
+Score         : 2.7481076046536583
+Document Id   : 1072
+Document Name   : cranfield1072
+Document Title: ignition and combustion in a laminar mixing zone .
+Rank          : 2
+Score         : 2.233931340956455
+Document Id   : 344
+Document Name   : cranfield0344
+Document Title: some experimental techniques in mass transfer cooling .
+Rank          : 3
+Score         : 2.22930606685006
+Document Id   : 485
+Document Name   : cranfield0485
+Document Title: linear heat flow in a composite slab .
+Rank          : 4
+Score         : 2.1142684017842948
+Document Id   : 144
+Document Name   : cranfield0144
+Document Title: heat flow in composite slabs .
+Rank          : 5
+Score         : 2.0982857996047075
+Document Id   : 5
+Document Name   : cranfield0005
+Document Title: one-dimensional transient heat conduction into a double-layer
+slab subjected to a linear heat input for a small time
+internal .
+Rank          : 6
+Score         : 2.063548976672369
+Document Id   : 399
+Document Name   : cranfield0399
+Document Title: conduction of heat in composite slabs .
+Rank          : 7
+Score         : 2.0062982031277317
+Document Id   : 181
+Document Name   : cranfield0181
+Document Title: some problems on heat conduction in stratiform bodies .
+Rank          : 8
+Score         : 1.9576142183605758
+Document Id   : 579
+Document Name   : cranfield0579
+Document Title: further developments of new methods in heat flow analysis .
+Rank          : 9
+Score         : 1.913526537925213
+Document Id   : 542
+Document Name   : cranfield0542
+Document Title: biot's variational principle in heat conduction .
+Rank          : 10
+Score         : 1.8773827819021167
+Document Id   : 623
+Document Name   : cranfield0623
+Document Title: on the coupling between heat and mass transfer .
+
+Query      : can a criterion be developed to show empirically the validity of flow solutions for chemically reacting gas mixtures based on the simplifying assumption of instantaneous local chemical equilibrium  
+Stemmed Query: can,criterion,develop,to,show,empir,valid,flow,solut,chemic,react,ga,mixtur,base,simplifi,assumpt,instantan,local,equilibrium
+
+Top 10 Documents (Weight-1): 
+Rank          : 1
+Score         : 1.87462194518174
+Document Id   : 1061
+Document Name   : cranfield1061
+Document Title: turbulent mixing of a rocket exhaust jet with a supersonic stream including
+chemical reactions .
+Rank          : 2
+Score         : 1.6893803596731904
+Document Id   : 166
+Document Name   : cranfield0166
+Document Title: flow of chemically reacting gas mixtures .
+Rank          : 3
+Score         : 1.6651155205068056
+Document Id   : 488
+Document Name   : cranfield0488
+Document Title: a reaction-rate parameter for gasdynamics of a chemically
+reacting gas mixture .
+Rank          : 4
+Score         : 1.4195955802452687
+Document Id   : 1255
+Document Name   : cranfield1255
+Document Title: the flow about a charged body moving in the lower atmosphere .
+Rank          : 5
+Score         : 1.3643689876355636
+Document Id   : 575
+Document Name   : cranfield0575
+Document Title: atomic recombination in a hypersonic wind tunnel nozzle .
+Rank          : 6
+Score         : 1.3457820994072809
+Document Id   : 1189
+Document Name   : cranfield1189
+Document Title: nonequilibrium flow past a wedge .
+Rank          : 7
+Score         : 1.319838190632916
+Document Id   : 185
+Document Name   : cranfield0185
+Document Title: some possibilities of using gas mixtures other than in
+aerodynamic research .
+Rank          : 8
+Score         : 1.304968106992463
+Document Id   : 1315
+Document Name   : cranfield1315
+Document Title: performance estimates for the rae 6in . high-pressure
+shock tube .
+Rank          : 9
+Score         : 1.2978161874944385
+Document Id   : 167
+Document Name   : cranfield0167
+Document Title: linearized flow of a dissociating gas .
+Rank          : 10
+Score         : 1.292039768512004
+Document Id   : 435
+Document Name   : cranfield0435
+Document Title: application of similar solutions to calculations of
+laminar heat transfer on bodies with yaw and large
+pressure gradients in high speed flow .
+
+Top 10 Documents (Weight-2): 
+Rank          : 1
+Score         : 4.503381749917699
+Document Id   : 1255
+Document Name   : cranfield1255
+Document Title: the flow about a charged body moving in the lower atmosphere .
+Rank          : 2
+Score         : 4.156493854472708
+Document Id   : 1061
+Document Name   : cranfield1061
+Document Title: turbulent mixing of a rocket exhaust jet with a supersonic stream including
+chemical reactions .
+Rank          : 3
+Score         : 4.059775912965533
+Document Id   : 24
+Document Name   : cranfield0024
+Document Title: theory of stagnation point heat transfer in dissociated
+air .
+Rank          : 4
+Score         : 4.037098572561226
+Document Id   : 435
+Document Name   : cranfield0435
+Document Title: application of similar solutions to calculations of
+laminar heat transfer on bodies with yaw and large
+pressure gradients in high speed flow .
+Rank          : 5
+Score         : 3.8623745486419763
+Document Id   : 329
+Document Name   : cranfield0329
+Document Title: various aerodynamic characteristics in hypersonic rarefied
+gas flow .
+Rank          : 6
+Score         : 3.825761633537876
+Document Id   : 166
+Document Name   : cranfield0166
+Document Title: flow of chemically reacting gas mixtures .
+Rank          : 7
+Score         : 3.733947896624235
+Document Id   : 167
+Document Name   : cranfield0167
+Document Title: linearized flow of a dissociating gas .
+Rank          : 8
+Score         : 3.732960953216444
+Document Id   : 1315
+Document Name   : cranfield1315
+Document Title: performance estimates for the rae 6in . high-pressure
+shock tube .
+Rank          : 9
+Score         : 3.6530829956118125
+Document Id   : 575
+Document Name   : cranfield0575
+Document Title: atomic recombination in a hypersonic wind tunnel nozzle .
+Rank          : 10
+Score         : 3.5283154179690386
+Document Id   : 576
+Document Name   : cranfield0576
+Document Title: viscous and inviscid stagnation flow in a dissociated hypervelocity free
+ stream .
+
+Query      : what chemical kinetic system is applicable to hypersonic aerodynamic problems  
+Stemmed Query: chemic,kinet,system,applic,to,hyperson,aerodynam,problem
+
+Top 10 Documents (Weight-1): 
+Rank          : 1
+Score         : 1.1843178622152934
+Document Id   : 103
+Document Name   : cranfield0103
+Document Title: theory of mixing and chemical reaction in the opposed
+jet diffusion flame .
+Rank          : 2
+Score         : 1.1076712671084916
+Document Id   : 401
+Document Name   : cranfield0401
+Document Title: inviscid hypersonic airflows with coupled non-equilibrium
+processes .
+Rank          : 3
+Score         : 1.05893293799438
+Document Id   : 625
+Document Name   : cranfield0625
+Document Title: viscous and inviscid nonequilibrium gas flows .
+Rank          : 4
+Score         : 1.0150884840724397
+Document Id   : 552
+Document Name   : cranfield0552
+Document Title: chemical kinetics of high temperature air .
+Rank          : 5
+Score         : 0.9735764264400303
+Document Id   : 1032
+Document Name   : cranfield1032
+Document Title: on the conservativeness of various distributed force systems .
+Rank          : 6
+Score         : 0.8975359443350561
+Document Id   : 1296
+Document Name   : cranfield1296
+Document Title: non-equilibrium expansions of air with coupled chemical
+reactions .
+Rank          : 7
+Score         : 0.8818094878851573
+Document Id   : 163
+Document Name   : cranfield0163
+Document Title: an analysis of the corridor and guidance requirements
+for supercircular entry planetary atmospheres .
+Rank          : 8
+Score         : 0.8638620066147137
+Document Id   : 943
+Document Name   : cranfield0943
+Document Title: compressible free shear layer with finite initial thickness .
+Rank          : 9
+Score         : 0.7490859902864938
+Document Id   : 328
+Document Name   : cranfield0328
+Document Title: the boundary layer near the stagnation point in hypersonic
+flow past a sphere .
+Rank          : 10
+Score         : 0.7465036897105329
+Document Id   : 968
+Document Name   : cranfield0968
+Document Title: rocket propulsion systems for interplanetary flight .
+
+Top 10 Documents (Weight-2): 
+Rank          : 1
+Score         : 2.785715980828551
+Document Id   : 401
+Document Name   : cranfield0401
+Document Title: inviscid hypersonic airflows with coupled non-equilibrium
+processes .
+Rank          : 2
+Score         : 2.70129104156182
+Document Id   : 625
+Document Name   : cranfield0625
+Document Title: viscous and inviscid nonequilibrium gas flows .
+Rank          : 3
+Score         : 2.648087996119225
+Document Id   : 163
+Document Name   : cranfield0163
+Document Title: an analysis of the corridor and guidance requirements
+for supercircular entry planetary atmospheres .
+Rank          : 4
+Score         : 2.3238292037909174
+Document Id   : 552
+Document Name   : cranfield0552
+Document Title: chemical kinetics of high temperature air .
+Rank          : 5
+Score         : 2.2127610625265093
+Document Id   : 981
+Document Name   : cranfield0981
+Document Title: solutions to the heat-conduction equation with time dependent boundary
+conditions .
+Rank          : 6
+Score         : 2.208318023163543
+Document Id   : 342
+Document Name   : cranfield0342
+Document Title: effect of diffusion fields on the laminar boundary
+layer .
+Rank          : 7
+Score         : 2.1855814403643876
+Document Id   : 1147
+Document Name   : cranfield1147
+Document Title: heat transfer to bodies traveling at high speed in the upper
+atmosphere .
+Rank          : 8
+Score         : 2.159047418915702
+Document Id   : 344
+Document Name   : cranfield0344
+Document Title: some experimental techniques in mass transfer cooling .
+Rank          : 9
+Score         : 2.0486897539282447
+Document Id   : 103
+Document Name   : cranfield0103
+Document Title: theory of mixing and chemical reaction in the opposed
+jet diffusion flame .
+Rank          : 10
+Score         : 1.9688394735997008
+Document Id   : 1032
+Document Name   : cranfield1032
+Document Title: on the conservativeness of various distributed force systems .
+
+Query      : what theoretical and experimental guides do we have as to turbulent couette flow behaviour  
+Stemmed Query: theoret,experiment,guid,do,we,to,turbul,couett,flow,behaviour
+
+Top 10 Documents (Weight-1): 
+Rank          : 1
+Score         : 1.125661689735783
+Document Id   : 798
+Document Name   : cranfield0798
+Document Title: interaction between shock waves and boundary layers, with a note on the
+effects of the interaction of the performance of supersonic intakes .
+Rank          : 2
+Score         : 1.011463020908373
+Document Id   : 491
+Document Name   : cranfield0491
+Document Title: on the close relationship between turbulent plane-couette
+and pressure flows .
+Rank          : 3
+Score         : 0.8694337426441008
+Document Id   : 315
+Document Name   : cranfield0315
+Document Title: scale effects at high subsonic and transonic speeds
+and methods for fixing transition in model experiments .
+Rank          : 4
+Score         : 0.745255946035168
+Document Id   : 257
+Document Name   : cranfield0257
+Document Title: on turbulen flow between parallel plates .
+Rank          : 5
+Score         : 0.6821489816499405
+Document Id   : 385
+Document Name   : cranfield0385
+Document Title: on a generalised porous-wall ?couette type? flow .
+Rank          : 6
+Score         : 0.6821064141044587
+Document Id   : 121
+Document Name   : cranfield0121
+Document Title: a theory for base pressures in transonic and supersonic
+flow .
+Rank          : 7
+Score         : 0.6502155535959611
+Document Id   : 344
+Document Name   : cranfield0344
+Document Title: some experimental techniques in mass transfer cooling .
+Rank          : 8
+Score         : 0.642526296482254
+Document Id   : 1196
+Document Name   : cranfield1196
+Document Title: growth of the turbulent wake behind a supersonic sphere .
+Rank          : 9
+Score         : 0.6320891284229465
+Document Id   : 950
+Document Name   : cranfield0950
+Document Title: comparison of theoretical and experimental creep buckling
+times of initially straight, centrally loaded columns .
+Rank          : 10
+Score         : 0.6189412742348064
+Document Id   : 767
+Document Name   : cranfield0767
+Document Title: mathematical techniques applying to the thermal fatigue behaviour
+of high temperature alloys .
+
+Top 10 Documents (Weight-2): 
+Rank          : 1
+Score         : 2.685792772973399
+Document Id   : 798
+Document Name   : cranfield0798
+Document Title: interaction between shock waves and boundary layers, with a note on the
+effects of the interaction of the performance of supersonic intakes .
+Rank          : 2
+Score         : 2.668926299212638
+Document Id   : 121
+Document Name   : cranfield0121
+Document Title: a theory for base pressures in transonic and supersonic
+flow .
+Rank          : 3
+Score         : 2.413688183324686
+Document Id   : 491
+Document Name   : cranfield0491
+Document Title: on the close relationship between turbulent plane-couette
+and pressure flows .
+Rank          : 4
+Score         : 2.2936226386373333
+Document Id   : 257
+Document Name   : cranfield0257
+Document Title: on turbulen flow between parallel plates .
+Rank          : 5
+Score         : 2.2889503326629623
+Document Id   : 315
+Document Name   : cranfield0315
+Document Title: scale effects at high subsonic and transonic speeds
+and methods for fixing transition in model experiments .
+Rank          : 6
+Score         : 2.2321264582074622
+Document Id   : 767
+Document Name   : cranfield0767
+Document Title: mathematical techniques applying to the thermal fatigue behaviour
+of high temperature alloys .
+Rank          : 7
+Score         : 2.213782125743022
+Document Id   : 344
+Document Name   : cranfield0344
+Document Title: some experimental techniques in mass transfer cooling .
+Rank          : 8
+Score         : 2.211766387915662
+Document Id   : 522
+Document Name   : cranfield0522
+Document Title: laminar, transitional and turbulent heat transfer to
+a cone-cylinder-flare body at mach 8. 0.
+Rank          : 9
+Score         : 2.200344056399651
+Document Id   : 294
+Document Name   : cranfield0294
+Document Title: an investigation of laminar transitional and turbulent
+heat transfer on blunt-nosed bodies in hypersonic flow .
+Rank          : 10
+Score         : 2.199334650973502
+Document Id   : 287
+Document Name   : cranfield0287
+Document Title: some theoretical low-speed loading characteristics
+of swept wings in roll and sideslip .
+
+Query      : is it possible to relate the available pressure distributions for an ogive forebody at zero angle of attack to the lower surface pressures of an equivalent ogive forebody at angle of attack  
+Stemmed Query: possibl,to,relat,avail,pressur,distribut,ogiv,forebodi,at,zero,angl,attack,lower,surfac,equival
+
+Top 10 Documents (Weight-1): 
+Rank          : 1
+Score         : 2.209651391660633
+Document Id   : 492
+Document Name   : cranfield0492
+Document Title: prediction of ogive-forebody pressures at angles of attack .
+Rank          : 2
+Score         : 1.6296702250324404
+Document Id   : 122
+Document Name   : cranfield0122
+Document Title: a simplified approximate method for the calculation of the pressure
+around conical bodies of arbitrary shape in supersonic and hypersonic
+flow .
+Rank          : 3
+Score         : 1.453666790271904
+Document Id   : 124
+Document Name   : cranfield0124
+Document Title: a summary of the supersonic pressure drag of bodies
+of revolution .
+Rank          : 4
+Score         : 1.4165991944320597
+Document Id   : 434
+Document Name   : cranfield0434
+Document Title: contributions of the wing panels to the forces and
+moments of supersonic wing-body combinations at combined
+angles .
+Rank          : 5
+Score         : 1.3779109035532406
+Document Id   : 57
+Document Name   : cranfield0057
+Document Title: applicability of the hypersonic similarity rule to
+pressure distributions which include the effects of
+rotation for bodies of revolution at zero angle of
+attack .
+Rank          : 6
+Score         : 1.3477195434877174
+Document Id   : 1040
+Document Name   : cranfield1040
+Document Title: on transverse vibrations of thin, shallow elastic shells .
+Rank          : 7
+Score         : 1.3033188166497176
+Document Id   : 373
+Document Name   : cranfield0373
+Document Title: the generalized expansion method and its application
+to bodies travelling at high supersonic airspeeds .
+Rank          : 8
+Score         : 1.300201337232822
+Document Id   : 56
+Document Name   : cranfield0056
+Document Title: an analysis of the applicability of the hypersonic
+similarity law to the study of the flow about bodies
+of revolution at zero angle of attack .
+Rank          : 9
+Score         : 1.257506487047106
+Document Id   : 1381
+Document Name   : cranfield1381
+Document Title: effect of mach number on boundary layer transition
+in the presence of pressure rise and surface roughness
+on an ogive-cylinder body with cold wall conditions .
+Rank          : 10
+Score         : 1.2252811748815162
+Document Id   : 973
+Document Name   : cranfield0973
+Document Title: interaction effects produced by jet exhausting laterally near base of
+ogive-cylinder model in supersonic main stream .
+
+Top 10 Documents (Weight-2): 
+Rank          : 1
+Score         : 5.048678296265765
+Document Id   : 492
+Document Name   : cranfield0492
+Document Title: prediction of ogive-forebody pressures at angles of attack .
+Rank          : 2
+Score         : 4.647511102346388
+Document Id   : 122
+Document Name   : cranfield0122
+Document Title: a simplified approximate method for the calculation of the pressure
+around conical bodies of arbitrary shape in supersonic and hypersonic
+flow .
+Rank          : 3
+Score         : 4.160101177193117
+Document Id   : 57
+Document Name   : cranfield0057
+Document Title: applicability of the hypersonic similarity rule to
+pressure distributions which include the effects of
+rotation for bodies of revolution at zero angle of
+attack .
+Rank          : 4
+Score         : 4.077562327389907
+Document Id   : 1381
+Document Name   : cranfield1381
+Document Title: effect of mach number on boundary layer transition
+in the presence of pressure rise and surface roughness
+on an ogive-cylinder body with cold wall conditions .
+Rank          : 5
+Score         : 4.0560270255985795
+Document Id   : 373
+Document Name   : cranfield0373
+Document Title: the generalized expansion method and its application
+to bodies travelling at high supersonic airspeeds .
+Rank          : 6
+Score         : 4.047535507055225
+Document Id   : 232
+Document Name   : cranfield0232
+Document Title: accuracy of approximate methods for predicting pressure
+on pointed non-lifting bodies of revolution in supersonic
+flow .
+Rank          : 7
+Score         : 3.961702256570452
+Document Id   : 1104
+Document Name   : cranfield1104
+Document Title: aerodynamic heating of blunt nose shapes at mach numbers up to 14 .
+Rank          : 8
+Score         : 3.9340495770145685
+Document Id   : 695
+Document Name   : cranfield0695
+Document Title: some experiments relating to the problem of simulation of hot jet
+engines in studies of jet effects on adjacent surfaces at a free-stream
+mach number of 1.80 .
+Rank          : 9
+Score         : 3.715167164451753
+Document Id   : 124
+Document Name   : cranfield0124
+Document Title: a summary of the supersonic pressure drag of bodies
+of revolution .
+Rank          : 10
+Score         : 3.7061657644376353
+Document Id   : 56
+Document Name   : cranfield0056
+Document Title: an analysis of the applicability of the hypersonic
+similarity law to the study of the flow about bodies
+of revolution at zero angle of attack .
+
+Query      : what methods -dash exact or approximate -dash are presently available for predicting body pressures at angle of attack  
+Stemmed Query: method,dash,exact,approxim,present,avail,predict,bodi,pressur,at,angl,attack
+
+Top 10 Documents (Weight-1): 
+Rank          : 1
+Score         : 1.3597507019848165
+Document Id   : 122
+Document Name   : cranfield0122
+Document Title: a simplified approximate method for the calculation of the pressure
+around conical bodies of arbitrary shape in supersonic and hypersonic
+flow .
+Rank          : 2
+Score         : 1.2393418211663245
+Document Id   : 688
+Document Name   : cranfield0688
+Document Title: tables of aerodynamic coefficients obtained from developed newtonian
+expressions for complete and partial conic and spheric bodies at combined
+angles of attack and sideslip with some comparisons with hypersonic
+experimental data .
+Rank          : 3
+Score         : 1.2001711873925955
+Document Id   : 433
+Document Name   : cranfield0433
+Document Title: application of two dimensional vortex theory to the
+prediction of flow fields behind wings of wing-body
+combinations at subsonic and supersonic speeds .
+Rank          : 4
+Score         : 1.1574560736394224
+Document Id   : 248
+Document Name   : cranfield0248
+Document Title: the application of lighthill formula for numerical
+calculation of pressure distributions on bodies of
+revolution at supersonic speed and zero angle of attack .
+Rank          : 5
+Score         : 1.1208062456712613
+Document Id   : 124
+Document Name   : cranfield0124
+Document Title: a summary of the supersonic pressure drag of bodies
+of revolution .
+Rank          : 6
+Score         : 1.0468473037193853
+Document Id   : 234
+Document Name   : cranfield0234
+Document Title: a second order shock-expansion method applicable to
+bodies of revolution near zero lift .
+Rank          : 7
+Score         : 1.0301126330114092
+Document Id   : 292
+Document Name   : cranfield0292
+Document Title: rapid laminar boundary layer calculations by piece-wise
+application of similar solutions .
+Rank          : 8
+Score         : 1.0182319078272015
+Document Id   : 492
+Document Name   : cranfield0492
+Document Title: prediction of ogive-forebody pressures at angles of attack .
+Rank          : 9
+Score         : 1.013585070430877
+Document Id   : 1193
+Document Name   : cranfield1193
+Document Title: some exact solutions for cavitating curvilinear bodies .
+Rank          : 10
+Score         : 1.011341141885163
+Document Id   : 69
+Document Name   : cranfield0069
+Document Title: predicted shock envelopes about two types of vehicles
+at large angles of attack .
+
+Top 10 Documents (Weight-2): 
+Rank          : 1
+Score         : 4.5422819982915055
+Document Id   : 122
+Document Name   : cranfield0122
+Document Title: a simplified approximate method for the calculation of the pressure
+around conical bodies of arbitrary shape in supersonic and hypersonic
+flow .
+Rank          : 2
+Score         : 4.075726607297446
+Document Id   : 492
+Document Name   : cranfield0492
+Document Title: prediction of ogive-forebody pressures at angles of attack .
+Rank          : 3
+Score         : 4.011042410384416
+Document Id   : 433
+Document Name   : cranfield0433
+Document Title: application of two dimensional vortex theory to the
+prediction of flow fields behind wings of wing-body
+combinations at subsonic and supersonic speeds .
+Rank          : 4
+Score         : 4.006452600470499
+Document Id   : 124
+Document Name   : cranfield0124
+Document Title: a summary of the supersonic pressure drag of bodies
+of revolution .
+Rank          : 5
+Score         : 3.929854737582274
+Document Id   : 292
+Document Name   : cranfield0292
+Document Title: rapid laminar boundary layer calculations by piece-wise
+application of similar solutions .
+Rank          : 6
+Score         : 3.687013227814976
+Document Id   : 234
+Document Name   : cranfield0234
+Document Title: a second order shock-expansion method applicable to
+bodies of revolution near zero lift .
+Rank          : 7
+Score         : 3.6760782154978022
+Document Id   : 688
+Document Name   : cranfield0688
+Document Title: tables of aerodynamic coefficients obtained from developed newtonian
+expressions for complete and partial conic and spheric bodies at combined
+angles of attack and sideslip with some comparisons with hypersonic
+experimental data .
+Rank          : 8
+Score         : 3.6390809198157434
+Document Id   : 248
+Document Name   : cranfield0248
+Document Title: the application of lighthill formula for numerical
+calculation of pressure distributions on bodies of
+revolution at supersonic speed and zero angle of attack .
+Rank          : 9
+Score         : 3.6087064943668854
+Document Id   : 1231
+Document Name   : cranfield1231
+Document Title: hypersonic flow over an elliptic cone: theory and experiment .
+Rank          : 10
+Score         : 3.574261271468318
+Document Id   : 232
+Document Name   : cranfield0232
+Document Title: accuracy of approximate methods for predicting pressure
+on pointed non-lifting bodies of revolution in supersonic
+flow .
+
+Query      : papers on internal /slip flow/ heat transfer studies  
+Stemmed Query: paper,intern,slip,flow,heat,transfer,studi
+
+Top 10 Documents (Weight-1): 
+Rank          : 1
+Score         : 1.1059638420396776
+Document Id   : 550
+Document Name   : cranfield0550
+Document Title: laminar heat transfer in tubes under slip-flow conditions .
+Rank          : 2
+Score         : 1.0470092306288485
+Document Id   : 21
+Document Name   : cranfield0021
+Document Title: on heat transfer in slip flow .
+Rank          : 3
+Score         : 1.0230717697513518
+Document Id   : 45
+Document Name   : cranfield0045
+Document Title: an investigation of separated flows, part ii: flow
+in the cavity and heat transfer .
+Rank          : 4
+Score         : 0.868981514489253
+Document Id   : 22
+Document Name   : cranfield0022
+Document Title: on slip-flow heat transfer to a flat plate .
+Rank          : 5
+Score         : 0.868981514489253
+Document Id   : 1215
+Document Name   : cranfield1215
+Document Title: the effect of slip particularly for highly cooled walls .
+Rank          : 6
+Score         : 0.8684355455546507
+Document Id   : 571
+Document Name   : cranfield0571
+Document Title: heat transfer to flat plate in high temperature rarefied
+ultra-high mach number flow .
+Rank          : 7
+Score         : 0.7919339882401114
+Document Id   : 306
+Document Name   : cranfield0306
+Document Title: second approximation to laminar compressible boundary
+layer on flat plate in slip flow .
+Rank          : 8
+Score         : 0.7093756237999072
+Document Id   : 1204
+Document Name   : cranfield1204
+Document Title: experimental effect of bluntness and gas rarefaction
+on drag coefficients and stagnation heat transfer on
+axisymmetric shapes in hypersonic flow .
+Rank          : 9
+Score         : 0.6987173621982616
+Document Id   : 102
+Document Name   : cranfield0102
+Document Title: advantages and limitations of models .
+Rank          : 10
+Score         : 0.6521931028703708
+Document Id   : 101
+Document Name   : cranfield0101
+Document Title: laminar heat transfer over blunt-nosed bodies at hypersonic flight
+speeds .
+
+Top 10 Documents (Weight-2): 
+Rank          : 1
+Score         : 2.8742102563530785
+Document Id   : 550
+Document Name   : cranfield0550
+Document Title: laminar heat transfer in tubes under slip-flow conditions .
+Rank          : 2
+Score         : 2.847979377073706
+Document Id   : 45
+Document Name   : cranfield0045
+Document Title: an investigation of separated flows, part ii: flow
+in the cavity and heat transfer .
+Rank          : 3
+Score         : 2.264634354317892
+Document Id   : 270
+Document Name   : cranfield0270
+Document Title: on combined free and forced convection laminar magnetohydrodynamic
+flow and heat transfer in channels with transverse
+magnetic field .
+Rank          : 4
+Score         : 2.2294461785498867
+Document Id   : 549
+Document Name   : cranfield0549
+Document Title: experimental study of the velocity and temperature
+distribution in a high-velocity vortex-type flow .
+Rank          : 5
+Score         : 2.207529471747715
+Document Id   : 572
+Document Name   : cranfield0572
+Document Title: boundary layer displacement and leading edge bluntness effects in high
+temperature hypersonic flow .
+Rank          : 6
+Score         : 2.180510948853731
+Document Id   : 489
+Document Name   : cranfield0489
+Document Title: on calculation of the laminar separation point and
+results of certain flows .
+Rank          : 7
+Score         : 2.150118222653605
+Document Id   : 89
+Document Name   : cranfield0089
+Document Title: an investigation of separated flows, part i: the pressure
+field .
+Rank          : 8
+Score         : 2.1447194832931014
+Document Id   : 1268
+Document Name   : cranfield1268
+Document Title: stable combustion of a high-velocity gas in a heated
+boundary layer .
+Rank          : 9
+Score         : 1.9901005460903294
+Document Id   : 571
+Document Name   : cranfield0571
+Document Title: heat transfer to flat plate in high temperature rarefied
+ultra-high mach number flow .
+Rank          : 10
+Score         : 1.979704535546098
+Document Id   : 21
+Document Name   : cranfield0021
+Document Title: on heat transfer in slip flow .
+
+Query      : are real-gas transport properties for air available over a wide range of enthalpies and densities  
+Stemmed Query: real,ga,transport,properti,air,avail,over,wide,rang,enthalpi,densiti
+
+Top 10 Documents (Weight-1): 
+Rank          : 1
+Score         : 1.6498567885537292
+Document Id   : 493
+Document Name   : cranfield0493
+Document Title: real-gas laminar boundary layer skin friction and heat
+transfer .
+Rank          : 2
+Score         : 1.4376771737220335
+Document Id   : 302
+Document Name   : cranfield0302
+Document Title: approximations for the thermodynamic and transport properties of high
+temperature air .
+Rank          : 3
+Score         : 1.311000443024695
+Document Id   : 1199
+Document Name   : cranfield1199
+Document Title: theoretical investigations of a supersonic laminar
+boundary layer with foreign-gas injection .
+Rank          : 4
+Score         : 1.2965012927916648
+Document Id   : 1143
+Document Name   : cranfield1143
+Document Title: a one-foot hypervelocity shock tunnel in which high-enthalpy
+real gas flows can be generated with flow times of
+about 180 milliseconds .
+Rank          : 5
+Score         : 1.2314557530303811
+Document Id   : 949
+Document Name   : cranfield0949
+Document Title: charts for equilibrium flow properties of air in hypervelocity
+nozzles .
+Rank          : 6
+Score         : 1.1841061758614637
+Document Id   : 110
+Document Name   : cranfield0110
+Document Title: dynamics of a dissociating gas .
+Rank          : 7
+Score         : 1.0988214004952714
+Document Id   : 541
+Document Name   : cranfield0541
+Document Title: similitude of hypersonic flows over slender bodies
+in non-equilibrium dissociated gases .
+Rank          : 8
+Score         : 1.0817652001803686
+Document Id   : 1009
+Document Name   : cranfield1009
+Document Title: free-flight measurements of the static and dynamic
+Rank          : 9
+Score         : 1.0704459616830007
+Document Id   : 1010
+Document Name   : cranfield1010
+Document Title: free-flight measurements of the static and dynamic
+Rank          : 10
+Score         : 1.0679653284308204
+Document Id   : 332
+Document Name   : cranfield0332
+Document Title: similitude of hypersonic real-gas flows over slender
+bodies with blunted noses .
+
+Top 10 Documents (Weight-2): 
+Rank          : 1
+Score         : 3.1241740288604776
+Document Id   : 493
+Document Name   : cranfield0493
+Document Title: real-gas laminar boundary layer skin friction and heat
+transfer .
+Rank          : 2
+Score         : 3.0664539473301846
+Document Id   : 302
+Document Name   : cranfield0302
+Document Title: approximations for the thermodynamic and transport properties of high
+temperature air .
+Rank          : 3
+Score         : 2.760188668462791
+Document Id   : 1264
+Document Name   : cranfield1264
+Document Title: boundary layer transition and heat transfer in shock
+tubes .
+Rank          : 4
+Score         : 2.4539240123785366
+Document Id   : 1010
+Document Name   : cranfield1010
+Document Title: free-flight measurements of the static and dynamic
+Rank          : 5
+Score         : 2.4391167419848725
+Document Id   : 332
+Document Name   : cranfield0332
+Document Title: similitude of hypersonic real-gas flows over slender
+bodies with blunted noses .
+Rank          : 6
+Score         : 2.4037010787240307
+Document Id   : 541
+Document Name   : cranfield0541
+Document Title: similitude of hypersonic flows over slender bodies
+in non-equilibrium dissociated gases .
+Rank          : 7
+Score         : 2.3813984357929794
+Document Id   : 110
+Document Name   : cranfield0110
+Document Title: dynamics of a dissociating gas .
+Rank          : 8
+Score         : 2.3741335616186854
+Document Id   : 583
+Document Name   : cranfield0583
+Document Title: influence coefficients for real gases .
+Rank          : 9
+Score         : 2.3498837372569024
+Document Id   : 421
+Document Name   : cranfield0421
+Document Title: analytic study of induced pressure on long bodies of
+revolution with varying nose bluntness at hypersonic
+speeds .
+Rank          : 10
+Score         : 2.25518371482653
+Document Id   : 1313
+Document Name   : cranfield1313
+Document Title: on the flow in a reflected shock tunnel .
+
+Query      : is it possible to find an analytical,  similar solution of the strong blast wave problem in the newtonian approximation  
+Stemmed Query: possibl,to,find,analyt,similar,solut,strong,blast,wave,problem,newtonian,approxim
+
+Top 10 Documents (Weight-1): 
+Rank          : 1
+Score         : 1.9055462110336445
+Document Id   : 495
+Document Name   : cranfield0495
+Document Title: on similar solutions for strong blast waves and their
+application to steady hypersonic flow .
+Rank          : 2
+Score         : 1.2726246218596913
+Document Id   : 572
+Document Name   : cranfield0572
+Document Title: boundary layer displacement and leading edge bluntness effects in high
+temperature hypersonic flow .
+Rank          : 3
+Score         : 1.2697073199349744
+Document Id   : 556
+Document Name   : cranfield0556
+Document Title: numerical comparison between exact and approximate
+theories of hypersonic inviscid flow past slender blunt
+nosed bodies .
+Rank          : 4
+Score         : 1.1247777559402672
+Document Id   : 25
+Document Name   : cranfield0025
+Document Title: inviscid hypersonic flow over blunt-nosed slender bodies .
+Rank          : 5
+Score         : 1.0435030388469038
+Document Id   : 110
+Document Name   : cranfield0110
+Document Title: dynamics of a dissociating gas .
+Rank          : 6
+Score         : 1.0122657431712094
+Document Id   : 1310
+Document Name   : cranfield1310
+Document Title: survey of inviscid hypersonic flow theory for geometrically
+slender shapes .
+Rank          : 7
+Score         : 1.0017963051912229
+Document Id   : 72
+Document Name   : cranfield0072
+Document Title: boundary layer behind shock or thin expansion wave
+moving into stationary fluid .
+Rank          : 8
+Score         : 0.9800254538046432
+Document Id   : 262
+Document Name   : cranfield0262
+Document Title: the formation of a blast wave by a very intense explosion .
+Rank          : 9
+Score         : 0.9740978805798797
+Document Id   : 654
+Document Name   : cranfield0654
+Document Title: on the propagation and structure of the blast wave .
+ part 1.
+Rank          : 10
+Score         : 0.9729067698840419
+Document Id   : 1280
+Document Name   : cranfield1280
+Document Title: wings with minimum drag due to lift in supersonic flow .
+
+Top 10 Documents (Weight-2): 
+Rank          : 1
+Score         : 3.931702811812068
+Document Id   : 495
+Document Name   : cranfield0495
+Document Title: on similar solutions for strong blast waves and their
+application to steady hypersonic flow .
+Rank          : 2
+Score         : 3.559770859153689
+Document Id   : 572
+Document Name   : cranfield0572
+Document Title: boundary layer displacement and leading edge bluntness effects in high
+temperature hypersonic flow .
+Rank          : 3
+Score         : 3.175047800543468
+Document Id   : 72
+Document Name   : cranfield0072
+Document Title: boundary layer behind shock or thin expansion wave
+moving into stationary fluid .
+Rank          : 4
+Score         : 3.126515626434399
+Document Id   : 110
+Document Name   : cranfield0110
+Document Title: dynamics of a dissociating gas .
+Rank          : 5
+Score         : 3.123388455029927
+Document Id   : 1280
+Document Name   : cranfield1280
+Document Title: wings with minimum drag due to lift in supersonic flow .
+Rank          : 6
+Score         : 3.0940732563496516
+Document Id   : 1375
+Document Name   : cranfield1375
+Document Title: an approximate solution for the axisymmetric jet of a laminar
+compressible fluid .
+Rank          : 7
+Score         : 2.7828935493520452
+Document Id   : 28
+Document Name   : cranfield0028
+Document Title: a note on the explosion solution of sedov with application
+to the newtonian theory of unsteady hypersonic flow .
+Rank          : 8
+Score         : 2.782731658943983
+Document Id   : 1186
+Document Name   : cranfield1186
+Document Title: lift of slender delta wings according to newtonian
+theory .
+Rank          : 9
+Score         : 2.773311660002114
+Document Id   : 472
+Document Name   : cranfield0472
+Document Title: waves in supersonic flow .
+Rank          : 10
+Score         : 2.7563337769633653
+Document Id   : 305
+Document Name   : cranfield0305
+Document Title: hypersonic strong viscous interaction on a flat plate
+with surface mass transfer .
+
+Query      : how can the aerodynamic performance of channel flow ground effect machines be calculated  
+Stemmed Query: can,aerodynam,perform,channel,flow,ground,effect,machin,calcul
+
+Top 10 Documents (Weight-1): 
+Rank          : 1
+Score         : 1.656991301103915
+Document Id   : 624
+Document Name   : cranfield0624
+Document Title: cruise performance of channel-flow ground effect machines .
+Rank          : 2
+Score         : 1.270550959048841
+Document Id   : 650
+Document Name   : cranfield0650
+Document Title: some design problems of hovercraft .
+Rank          : 3
+Score         : 1.2264442123668775
+Document Id   : 966
+Document Name   : cranfield0966
+Document Title: on fully developed channel flows,. some solutions and limitations, and
+effects of compressibility, variable properties, and body forces .
+Rank          : 4
+Score         : 1.0020507189758667
+Document Id   : 506
+Document Name   : cranfield0506
+Document Title: a note on havelock's shallow-water wave-resistance
+curves .
+Rank          : 5
+Score         : 0.8997104658977895
+Document Id   : 649
+Document Name   : cranfield0649
+Document Title: the hovercraft - a new concept in maritime transport .
+Rank          : 6
+Score         : 0.8946570518489789
+Document Id   : 704
+Document Name   : cranfield0704
+Document Title: a systematic kernel function procedure for determining aerodynamic
+forces on oscillating or steady finite wings at subsonic speeds .
+Rank          : 7
+Score         : 0.8569173563974982
+Document Id   : 792
+Document Name   : cranfield0792
+Document Title: some low speed problems of high speed aircraft .
+Rank          : 8
+Score         : 0.8421330949346604
+Document Id   : 325
+Document Name   : cranfield0325
+Document Title: heat transfer to constant property laminar boundary
+layer flows with power function free stream velocity
+and wall temperature variation .
+Rank          : 9
+Score         : 0.7163665922849692
+Document Id   : 1164
+Document Name   : cranfield1164
+Document Title: effect of ground proximity on the aerodynamic characteristics
+of a four- engined vertical take-off and landing transport
+airplane model with tilting wing and propellers .
+Rank          : 10
+Score         : 0.7042501561066262
+Document Id   : 1221
+Document Name   : cranfield1221
+Document Title: steady flow of conducting fluids in channels under
+transverse magnetic fields, with consideration of hall
+effect .
+
+Top 10 Documents (Weight-2): 
+Rank          : 1
+Score         : 3.7808450156766398
+Document Id   : 624
+Document Name   : cranfield0624
+Document Title: cruise performance of channel-flow ground effect machines .
+Rank          : 2
+Score         : 2.7949620384202185
+Document Id   : 966
+Document Name   : cranfield0966
+Document Title: on fully developed channel flows,. some solutions and limitations, and
+effects of compressibility, variable properties, and body forces .
+Rank          : 3
+Score         : 2.614190334149012
+Document Id   : 792
+Document Name   : cranfield0792
+Document Title: some low speed problems of high speed aircraft .
+Rank          : 4
+Score         : 2.6060478527939233
+Document Id   : 329
+Document Name   : cranfield0329
+Document Title: various aerodynamic characteristics in hypersonic rarefied
+gas flow .
+Rank          : 5
+Score         : 2.562620655909175
+Document Id   : 917
+Document Name   : cranfield0917
+Document Title: a method of calculating the short period longitudinal
+stability derivatives of a wing in linearised unsteady
+compressible flow .
+Rank          : 6
+Score         : 2.4735759683565655
+Document Id   : 650
+Document Name   : cranfield0650
+Document Title: some design problems of hovercraft .
+Rank          : 7
+Score         : 2.3604563072991276
+Document Id   : 506
+Document Name   : cranfield0506
+Document Title: a note on havelock's shallow-water wave-resistance
+curves .
+Rank          : 8
+Score         : 2.318321934146852
+Document Id   : 704
+Document Name   : cranfield0704
+Document Title: a systematic kernel function procedure for determining aerodynamic
+forces on oscillating or steady finite wings at subsonic speeds .
+Rank          : 9
+Score         : 2.2675060163341785
+Document Id   : 325
+Document Name   : cranfield0325
+Document Title: heat transfer to constant property laminar boundary
+layer flows with power function free stream velocity
+and wall temperature variation .
+Rank          : 10
+Score         : 2.239944951028174
+Document Id   : 749
+Document Name   : cranfield0749
+Document Title: the aerodynamic effects of aspect ratio and sweepback
+on wing flutter .
+
+Query      : what is the basic mechanism of the transonic aileron buzz  
+Stemmed Query: basic,mechan,transon,aileron,buzz
+
+Top 10 Documents (Weight-1): 
+Rank          : 1
+Score         : 1.9617391063039276
+Document Id   : 496
+Document Name   : cranfield0496
+Document Title: a theory of transonic aileron buzz, neglecting viscous
+effects .
+Rank          : 2
+Score         : 1.016949318654048
+Document Id   : 903
+Document Name   : cranfield0903
+Document Title: two dimensional transonic unsteady flow with shock
+waves .
+Rank          : 3
+Score         : 0.9410831554559866
+Document Id   : 520
+Document Name   : cranfield0520
+Document Title: wing-tail interference as a cause of 'magnus' effects
+on a finned missile .
+Rank          : 4
+Score         : 0.6961991607878422
+Document Id   : 199
+Document Name   : cranfield0199
+Document Title: measurement of two dimensional derivatives on a wing-aileron-tab
+system .
+Rank          : 5
+Score         : 0.696199160787842
+Document Id   : 643
+Document Name   : cranfield0643
+Document Title: an investigation of wing-aileron flutter using ground
+launched rocket models .
+Rank          : 6
+Score         : 0.6573614106977509
+Document Id   : 440
+Document Name   : cranfield0440
+Document Title: compilation of information on the transonic attachment
+of flows at the leading edge of airfoils .
+Rank          : 7
+Score         : 0.6282638172651069
+Document Id   : 38
+Document Name   : cranfield0038
+Document Title: on the prediction of mixed subsonic/supersonic pressure
+distributions .
+Rank          : 8
+Score         : 0.6079198453374477
+Document Id   : 880
+Document Name   : cranfield0880
+Document Title: the design and testing of supersonic flutter models .
+Rank          : 9
+Score         : 0.5884626608515563
+Document Id   : 797
+Document Name   : cranfield0797
+Document Title: a study of the effect of leading-edge modifications on the flow over
+a 50degree sweptback wing at transonic speeds .
+Rank          : 10
+Score         : 0.5724620695013378
+Document Id   : 313
+Document Name   : cranfield0313
+Document Title: on alternative forms for the basic equations of transonic
+flow theory .
+
+Top 10 Documents (Weight-2): 
+Rank          : 1
+Score         : 1.9505119754807565
+Document Id   : 496
+Document Name   : cranfield0496
+Document Title: a theory of transonic aileron buzz, neglecting viscous
+effects .
+Rank          : 2
+Score         : 1.6213202543548293
+Document Id   : 903
+Document Name   : cranfield0903
+Document Title: two dimensional transonic unsteady flow with shock
+waves .
+Rank          : 3
+Score         : 1.5562022678283771
+Document Id   : 520
+Document Name   : cranfield0520
+Document Title: wing-tail interference as a cause of 'magnus' effects
+on a finned missile .
+Rank          : 4
+Score         : 1.0795719619013497
+Document Id   : 313
+Document Name   : cranfield0313
+Document Title: on alternative forms for the basic equations of transonic
+flow theory .
+Rank          : 5
+Score         : 1.0775174126184521
+Document Id   : 440
+Document Name   : cranfield0440
+Document Title: compilation of information on the transonic attachment
+of flows at the leading edge of airfoils .
+Rank          : 6
+Score         : 1.0591714481196315
+Document Id   : 38
+Document Name   : cranfield0038
+Document Title: on the prediction of mixed subsonic/supersonic pressure
+distributions .
+Rank          : 7
+Score         : 1.0260625418525127
+Document Id   : 880
+Document Name   : cranfield0880
+Document Title: the design and testing of supersonic flutter models .
+Rank          : 8
+Score         : 1.011171327623467
+Document Id   : 797
+Document Name   : cranfield0797
+Document Title: a study of the effect of leading-edge modifications on the flow over
+a 50degree sweptback wing at transonic speeds .
+Rank          : 9
+Score         : 0.9909560573141674
+Document Id   : 415
+Document Name   : cranfield0415
+Document Title: the aerodynamic design of section shapes for swept wings .
+Rank          : 10
+Score         : 0.9173717662633982
+Document Id   : 927
+Document Name   : cranfield0927
+Document Title: investigation of normal force distributions and wake
+vortex characteristics of bodies of revolution at supersonic
+speeds .
+
+Query      : papers on shock-sound wave interaction  
+Stemmed Query: paper,shock,sound,wave,interact
+
+Top 10 Documents (Weight-1): 
+Rank          : 1
+Score         : 1.011814419787079
+Document Id   : 64
+Document Name   : cranfield0064
+Document Title: unsteady oblique interaction of a shock wave with plane
+disturbances .
+Rank          : 2
+Score         : 0.9092413961703205
+Document Id   : 798
+Document Name   : cranfield0798
+Document Title: interaction between shock waves and boundary layers, with a note on the
+effects of the interaction of the performance of supersonic intakes .
+Rank          : 3
+Score         : 0.8855154911083551
+Document Id   : 170
+Document Name   : cranfield0170
+Document Title: the interaction of a reflected shock wave with the
+boundary layer in a shock tube .
+Rank          : 4
+Score         : 0.8852261081641366
+Document Id   : 402
+Document Name   : cranfield0402
+Document Title: magnetohydrodynamics shocks .
+Rank          : 5
+Score         : 0.8850634051869509
+Document Id   : 1303
+Document Name   : cranfield1303
+Document Title: air pressure on a cone moving at high speeds .
+Rank          : 6
+Score         : 0.8222615941365498
+Document Id   : 132
+Document Name   : cranfield0132
+Document Title: viscosity effects in sound waves of finite amplitude:
+in survey in mechanics .
+Rank          : 7
+Score         : 0.7848156681685202
+Document Id   : 439
+Document Name   : cranfield0439
+Document Title: a factor affecting transonic leading edge flow separation .
+Rank          : 8
+Score         : 0.772574918866355
+Document Id   : 572
+Document Name   : cranfield0572
+Document Title: boundary layer displacement and leading edge bluntness effects in high
+temperature hypersonic flow .
+Rank          : 9
+Score         : 0.7605933975545752
+Document Id   : 291
+Document Name   : cranfield0291
+Document Title: sweepback effects in the turbulent boundary-layer shock-wave
+interaction .
+Rank          : 10
+Score         : 0.7562670704064071
+Document Id   : 296
+Document Name   : cranfield0296
+Document Title: notes on waves through gases at pressures small compared
+with the magnetic pressure, with applications to upper
+atmosphere aerodynamics .
+
+Top 10 Documents (Weight-2): 
+Rank          : 1
+Score         : 2.151158758549501
+Document Id   : 64
+Document Name   : cranfield0064
+Document Title: unsteady oblique interaction of a shock wave with plane
+disturbances .
+Rank          : 2
+Score         : 1.9835756335969648
+Document Id   : 170
+Document Name   : cranfield0170
+Document Title: the interaction of a reflected shock wave with the
+boundary layer in a shock tube .
+Rank          : 3
+Score         : 1.9579010687493
+Document Id   : 439
+Document Name   : cranfield0439
+Document Title: a factor affecting transonic leading edge flow separation .
+Rank          : 4
+Score         : 1.939426732202346
+Document Id   : 798
+Document Name   : cranfield0798
+Document Title: interaction between shock waves and boundary layers, with a note on the
+effects of the interaction of the performance of supersonic intakes .
+Rank          : 5
+Score         : 1.9042490130900198
+Document Id   : 1303
+Document Name   : cranfield1303
+Document Title: air pressure on a cone moving at high speeds .
+Rank          : 6
+Score         : 1.8607036890710928
+Document Id   : 1313
+Document Name   : cranfield1313
+Document Title: on the flow in a reflected shock tunnel .
+Rank          : 7
+Score         : 1.8545381190384753
+Document Id   : 572
+Document Name   : cranfield0572
+Document Title: boundary layer displacement and leading edge bluntness effects in high
+temperature hypersonic flow .
+Rank          : 8
+Score         : 1.8442176616422055
+Document Id   : 1327
+Document Name   : cranfield1327
+Document Title: on the propagation and structure of the blast wave .
+Rank          : 9
+Score         : 1.840775900122789
+Document Id   : 329
+Document Name   : cranfield0329
+Document Title: various aerodynamic characteristics in hypersonic rarefied
+gas flow .
+Rank          : 10
+Score         : 1.5470835910120484
+Document Id   : 256
+Document Name   : cranfield0256
+Document Title: an experimental study of the glancing interaction between
+a shock wave and a turbulent boundary layer .
+
+Query      : material properties of photoelastic materials  
+Stemmed Query: materi,properti,photoelast
+
+Top 10 Documents (Weight-1): 
+Rank          : 1
+Score         : 1.1382853332832348
+Document Id   : 462
+Document Name   : cranfield0462
+Document Title: photo-thermoelasticity .
+Rank          : 2
+Score         : 0.6321565315597373
+Document Id   : 1025
+Document Name   : cranfield1025
+Document Title: note on creep buckling of columns .
+Rank          : 3
+Score         : 0.5925148569077907
+Document Id   : 82
+Document Name   : cranfield0082
+Document Title: theoretical investigation of the ablation of a glass-type
+heat protection shield of varied material properties
+at the stagnation point of a re-entering irbm .
+Rank          : 4
+Score         : 0.5887381110197434
+Document Id   : 463
+Document Name   : cranfield0463
+Document Title: physical properties of plastics for photo-thermoelastic
+investigation .
+Rank          : 5
+Score         : 0.5791581678795954
+Document Id   : 1043
+Document Name   : cranfield1043
+Document Title: on transverse vibrations of thin, shallow elastic shells .
+Rank          : 6
+Score         : 0.5181342077248243
+Document Id   : 542
+Document Name   : cranfield0542
+Document Title: biot's variational principle in heat conduction .
+Rank          : 7
+Score         : 0.5092590433408153
+Document Id   : 1099
+Document Name   : cranfield1099
+Document Title: a theoretical study of stagnation point ablation .
+Rank          : 8
+Score         : 0.49488978568831343
+Document Id   : 982
+Document Name   : cranfield0982
+Document Title: the temperature history in a thick skin subjected to laminar heating
+during entry into the atmosphere .
+Rank          : 9
+Score         : 0.4849351008934615
+Document Id   : 1127
+Document Name   : cranfield1127
+Document Title: the buckling of sandwich type panels .
+Rank          : 10
+Score         : 0.46866398467172454
+Document Id   : 1024
+Document Name   : cranfield1024
+Document Title: note on creep buckling of columns .
+
+Top 10 Documents (Weight-2): 
+Rank          : 1
+Score         : 1.643590845709915
+Document Id   : 462
+Document Name   : cranfield0462
+Document Title: photo-thermoelasticity .
+Rank          : 2
+Score         : 1.0647292481323882
+Document Id   : 1025
+Document Name   : cranfield1025
+Document Title: note on creep buckling of columns .
+Rank          : 3
+Score         : 1.0419371958062187
+Document Id   : 82
+Document Name   : cranfield0082
+Document Title: theoretical investigation of the ablation of a glass-type
+heat protection shield of varied material properties
+at the stagnation point of a re-entering irbm .
+Rank          : 4
+Score         : 1.0391081902709338
+Document Id   : 1099
+Document Name   : cranfield1099
+Document Title: a theoretical study of stagnation point ablation .
+Rank          : 5
+Score         : 1.0319295921171339
+Document Id   : 542
+Document Name   : cranfield0542
+Document Title: biot's variational principle in heat conduction .
+Rank          : 6
+Score         : 1.0250089655066723
+Document Id   : 463
+Document Name   : cranfield0463
+Document Title: physical properties of plastics for photo-thermoelastic
+investigation .
+Rank          : 7
+Score         : 1.0178508328409501
+Document Id   : 1043
+Document Name   : cranfield1043
+Document Title: on transverse vibrations of thin, shallow elastic shells .
+Rank          : 8
+Score         : 1.0177226260713494
+Document Id   : 1340
+Document Name   : cranfield1340
+Document Title: method of controlling stiffness properties of a solid-construction
+model wing .
+Rank          : 9
+Score         : 0.9832498903462863
+Document Id   : 1024
+Document Name   : cranfield1024
+Document Title: note on creep buckling of columns .
+Rank          : 10
+Score         : 0.9828929054705567
+Document Id   : 982
+Document Name   : cranfield0982
+Document Title: the temperature history in a thick skin subjected to laminar heating
+during entry into the atmosphere .
+
+Query      : can the transverse potential flow about a body of revolution be calculated efficiently by an electronic computer  
+Stemmed Query: can,transvers,potenti,flow,about,bodi,revolut,calcul,effici,electron,comput
+
+Top 10 Documents (Weight-1): 
+Rank          : 1
+Score         : 1.643446824319044
+Document Id   : 498
+Document Name   : cranfield0498
+Document Title: calculation of potential flow about bodies of revolution
+having axes perpendicular to the free-stream direction .
+Rank          : 2
+Score         : 1.2315325203478307
+Document Id   : 1255
+Document Name   : cranfield1255
+Document Title: the flow about a charged body moving in the lower atmosphere .
+Rank          : 3
+Score         : 1.1475991337077351
+Document Id   : 106
+Document Name   : cranfield0106
+Document Title: the transverse potential flow past a body of revolution .
+Rank          : 4
+Score         : 1.0833142176642485
+Document Id   : 927
+Document Name   : cranfield0927
+Document Title: investigation of normal force distributions and wake
+vortex characteristics of bodies of revolution at supersonic
+speeds .
+Rank          : 5
+Score         : 1.02781400908209
+Document Id   : 231
+Document Name   : cranfield0231
+Document Title: practical calculation of second-order supersonic flow
+past non-lifting bodies of revolution .
+Rank          : 6
+Score         : 1.019779572742115
+Document Id   : 869
+Document Name   : cranfield0869
+Document Title: the calculation of transient temperature in turbine
+blades and tapered discs using biot's variational method .
+Rank          : 7
+Score         : 0.9965396951235197
+Document Id   : 976
+Document Name   : cranfield0976
+Document Title: turbulent diffusion in the wake of a blunt nosed body
+at hypersonic speeds .
+Rank          : 8
+Score         : 0.9817288635253694
+Document Id   : 248
+Document Name   : cranfield0248
+Document Title: the application of lighthill formula for numerical
+calculation of pressure distributions on bodies of
+revolution at supersonic speed and zero angle of attack .
+Rank          : 9
+Score         : 0.9779831206083173
+Document Id   : 410
+Document Name   : cranfield0410
+Document Title: the supersonic flow about a blunt body of revolution
+for gases at chemical equilibrium .
+Rank          : 10
+Score         : 0.9433422976557823
+Document Id   : 494
+Document Name   : cranfield0494
+Document Title: axisymmetric viscous flow plast very slender bodies
+of revolution .
+
+Top 10 Documents (Weight-2): 
+Rank          : 1
+Score         : 3.8791661577212313
+Document Id   : 498
+Document Name   : cranfield0498
+Document Title: calculation of potential flow about bodies of revolution
+having axes perpendicular to the free-stream direction .
+Rank          : 2
+Score         : 3.274407110263186
+Document Id   : 1255
+Document Name   : cranfield1255
+Document Title: the flow about a charged body moving in the lower atmosphere .
+Rank          : 3
+Score         : 3.1585838193275952
+Document Id   : 927
+Document Name   : cranfield0927
+Document Title: investigation of normal force distributions and wake
+vortex characteristics of bodies of revolution at supersonic
+speeds .
+Rank          : 4
+Score         : 2.79150441107768
+Document Id   : 231
+Document Name   : cranfield0231
+Document Title: practical calculation of second-order supersonic flow
+past non-lifting bodies of revolution .
+Rank          : 5
+Score         : 2.7345819848482256
+Document Id   : 801
+Document Name   : cranfield0801
+Document Title: experimental study of the equivalence of transonic
+flow about slender cone-cylinders of circular and elliptic
+cross section .
+Rank          : 6
+Score         : 2.696903765614339
+Document Id   : 266
+Document Name   : cranfield0266
+Document Title: exact solution of the neumann problem . calculation
+for non- circulatory plane and axially symmetric flows
+about or within arbitrary boundaries .
+Rank          : 7
+Score         : 2.693264838794582
+Document Id   : 869
+Document Name   : cranfield0869
+Document Title: the calculation of transient temperature in turbine
+blades and tapered discs using biot's variational method .
+Rank          : 8
+Score         : 2.677846397341735
+Document Id   : 704
+Document Name   : cranfield0704
+Document Title: a systematic kernel function procedure for determining aerodynamic
+forces on oscillating or steady finite wings at subsonic speeds .
+Rank          : 9
+Score         : 2.659441807738889
+Document Id   : 1356
+Document Name   : cranfield1356
+Document Title: secondary flow fields embedded in hypersonic shock
+layers .
+Rank          : 10
+Score         : 2.626467957274013
+Document Id   : 225
+Document Name   : cranfield0225
+Document Title: elliptic cones alone and with wings at supersonic speeds .
+
+Query      : can the three-dimensional problem of a transverse potential flow about a body of revolution be reduced to a two-dimensional problem  
+Stemmed Query: can,three,dimension,problem,transvers,potenti,flow,about,bodi,revolut,reduc,to,two
+
+Top 10 Documents (Weight-1): 
+Rank          : 1
+Score         : 1.2791330736287174
+Document Id   : 1108
+Document Name   : cranfield1108
+Document Title: a study of second-order supersonic flow theory .
+Rank          : 2
+Score         : 1.1726833130295302
+Document Id   : 916
+Document Name   : cranfield0916
+Document Title: the flow around oscillating low aspect ratio wings at transonic
+speeds .
+Rank          : 3
+Score         : 1.1475991337077351
+Document Id   : 106
+Document Name   : cranfield0106
+Document Title: the transverse potential flow past a body of revolution .
+Rank          : 4
+Score         : 1.1358250148650433
+Document Id   : 94
+Document Name   : cranfield0094
+Document Title: the transverse curvature effect in compressible axially
+symmetric laminar boundary layer flow .
+Rank          : 5
+Score         : 1.095830942713839
+Document Id   : 801
+Document Name   : cranfield0801
+Document Title: experimental study of the equivalence of transonic
+flow about slender cone-cylinders of circular and elliptic
+cross section .
+Rank          : 6
+Score         : 1.0593695245659396
+Document Id   : 1281
+Document Name   : cranfield1281
+Document Title: turbulent heat transfer on blunt-nosed bodies in two-dimensional
+and general three-dimensional hypersonic flow .
+Rank          : 7
+Score         : 1.0527246529684036
+Document Id   : 498
+Document Name   : cranfield0498
+Document Title: calculation of potential flow about bodies of revolution
+having axes perpendicular to the free-stream direction .
+Rank          : 8
+Score         : 1.052299650135606
+Document Id   : 1301
+Document Name   : cranfield1301
+Document Title: compressible boundary layers on bodies of revolution .
+Rank          : 9
+Score         : 1.0172431540937414
+Document Id   : 1036
+Document Name   : cranfield1036
+Document Title: on transverse vibrations of thin, shallow elastic shells .
+Rank          : 10
+Score         : 1.0059992353252674
+Document Id   : 373
+Document Name   : cranfield0373
+Document Title: the generalized expansion method and its application
+to bodies travelling at high supersonic airspeeds .
+
+Top 10 Documents (Weight-2): 
+Rank          : 1
+Score         : 4.126287983457093
+Document Id   : 1108
+Document Name   : cranfield1108
+Document Title: a study of second-order supersonic flow theory .
+Rank          : 2
+Score         : 4.030139471368367
+Document Id   : 801
+Document Name   : cranfield0801
+Document Title: experimental study of the equivalence of transonic
+flow about slender cone-cylinders of circular and elliptic
+cross section .
+Rank          : 3
+Score         : 3.9420879260819763
+Document Id   : 373
+Document Name   : cranfield0373
+Document Title: the generalized expansion method and its application
+to bodies travelling at high supersonic airspeeds .
+Rank          : 4
+Score         : 3.817043011485106
+Document Id   : 1248
+Document Name   : cranfield1248
+Document Title: an analytic extension of the shock-expansion method .
+Rank          : 5
+Score         : 3.6584609650815474
+Document Id   : 916
+Document Name   : cranfield0916
+Document Title: the flow around oscillating low aspect ratio wings at transonic
+speeds .
+Rank          : 6
+Score         : 3.635407554624636
+Document Id   : 1301
+Document Name   : cranfield1301
+Document Title: compressible boundary layers on bodies of revolution .
+Rank          : 7
+Score         : 3.6146087577263053
+Document Id   : 1281
+Document Name   : cranfield1281
+Document Title: turbulent heat transfer on blunt-nosed bodies in two-dimensional
+and general three-dimensional hypersonic flow .
+Rank          : 8
+Score         : 3.605988549834108
+Document Id   : 94
+Document Name   : cranfield0094
+Document Title: the transverse curvature effect in compressible axially
+symmetric laminar boundary layer flow .
+Rank          : 9
+Score         : 3.5196239218709864
+Document Id   : 927
+Document Name   : cranfield0927
+Document Title: investigation of normal force distributions and wake
+vortex characteristics of bodies of revolution at supersonic
+speeds .
+Rank          : 10
+Score         : 3.5193906397706787
+Document Id   : 1235
+Document Name   : cranfield1235
+Document Title: a theory of the two dimensional laminar bounary layer
+over a curved surface .
+
+Query      : are experimental pressure distributions on bodies of revolution at angle of attack available  
+Stemmed Query: experiment,pressur,distribut,bodi,revolut,at,angl,attack,avail
+
+Top 10 Documents (Weight-1): 
+Rank          : 1
+Score         : 1.2559490281602865
+Document Id   : 248
+Document Name   : cranfield0248
+Document Title: the application of lighthill formula for numerical
+calculation of pressure distributions on bodies of
+revolution at supersonic speed and zero angle of attack .
+Rank          : 2
+Score         : 1.1238125422384333
+Document Id   : 234
+Document Name   : cranfield0234
+Document Title: a second order shock-expansion method applicable to
+bodies of revolution near zero lift .
+Rank          : 3
+Score         : 1.094114621562753
+Document Id   : 498
+Document Name   : cranfield0498
+Document Title: calculation of potential flow about bodies of revolution
+having axes perpendicular to the free-stream direction .
+Rank          : 4
+Score         : 1.053706626749158
+Document Id   : 56
+Document Name   : cranfield0056
+Document Title: an analysis of the applicability of the hypersonic
+similarity law to the study of the flow about bodies
+of revolution at zero angle of attack .
+Rank          : 5
+Score         : 1.0261757723200593
+Document Id   : 197
+Document Name   : cranfield0197
+Document Title: pressure distributions on three bodies of revolution
+to determine the effect of reynolds number up to and
+including the transonic speed range .
+Rank          : 6
+Score         : 1.013773260751965
+Document Id   : 1005
+Document Name   : cranfield1005
+Document Title: free-flight measurements of the static and dynamic
+Rank          : 7
+Score         : 1.0080285764243868
+Document Id   : 1352
+Document Name   : cranfield1352
+Document Title: aerodynamic investigation of a parabolic body of revolution
+at mach number of 1. 92 and some effects of an annular
+supersonic jet exhausting from the base .
+Rank          : 8
+Score         : 0.9973198314655932
+Document Id   : 927
+Document Name   : cranfield0927
+Document Title: investigation of normal force distributions and wake
+vortex characteristics of bodies of revolution at supersonic
+speeds .
+Rank          : 9
+Score         : 0.9960558593801488
+Document Id   : 124
+Document Name   : cranfield0124
+Document Title: a summary of the supersonic pressure drag of bodies
+of revolution .
+Rank          : 10
+Score         : 0.9803391833064707
+Document Id   : 801
+Document Name   : cranfield0801
+Document Title: experimental study of the equivalence of transonic
+flow about slender cone-cylinders of circular and elliptic
+cross section .
+
+Top 10 Documents (Weight-2): 
+Rank          : 1
+Score         : 3.7117731700786583
+Document Id   : 234
+Document Name   : cranfield0234
+Document Title: a second order shock-expansion method applicable to
+bodies of revolution near zero lift .
+Rank          : 2
+Score         : 3.6757667501314977
+Document Id   : 197
+Document Name   : cranfield0197
+Document Title: pressure distributions on three bodies of revolution
+to determine the effect of reynolds number up to and
+including the transonic speed range .
+Rank          : 3
+Score         : 3.652058238655875
+Document Id   : 1352
+Document Name   : cranfield1352
+Document Title: aerodynamic investigation of a parabolic body of revolution
+at mach number of 1. 92 and some effects of an annular
+supersonic jet exhausting from the base .
+Rank          : 4
+Score         : 3.6480539151801246
+Document Id   : 498
+Document Name   : cranfield0498
+Document Title: calculation of potential flow about bodies of revolution
+having axes perpendicular to the free-stream direction .
+Rank          : 5
+Score         : 3.5421140324249163
+Document Id   : 927
+Document Name   : cranfield0927
+Document Title: investigation of normal force distributions and wake
+vortex characteristics of bodies of revolution at supersonic
+speeds .
+Rank          : 6
+Score         : 3.530989920728787
+Document Id   : 225
+Document Name   : cranfield0225
+Document Title: elliptic cones alone and with wings at supersonic speeds .
+Rank          : 7
+Score         : 3.2796960647733115
+Document Id   : 248
+Document Name   : cranfield0248
+Document Title: the application of lighthill formula for numerical
+calculation of pressure distributions on bodies of
+revolution at supersonic speed and zero angle of attack .
+Rank          : 8
+Score         : 3.2125546563709415
+Document Id   : 56
+Document Name   : cranfield0056
+Document Title: an analysis of the applicability of the hypersonic
+similarity law to the study of the flow about bodies
+of revolution at zero angle of attack .
+Rank          : 9
+Score         : 3.2015383187116724
+Document Id   : 801
+Document Name   : cranfield0801
+Document Title: experimental study of the equivalence of transonic
+flow about slender cone-cylinders of circular and elliptic
+cross section .
+Rank          : 10
+Score         : 3.2002456100270926
+Document Id   : 232
+Document Name   : cranfield0232
+Document Title: accuracy of approximate methods for predicting pressure
+on pointed non-lifting bodies of revolution in supersonic
+flow .
+
+Query      : does there exist a good basic treatment of the dynamics of re-entry combining consideration of realistic effects with relative simplicity of results  
+Stemmed Query: doe,exist,good,basic,treatment,dynam,re,entri,combin,consider,realist,effect,rel,simplic,result
+
+Top 10 Documents (Weight-1): 
+Rank          : 1
+Score         : 1.5217515110802204
+Document Id   : 82
+Document Name   : cranfield0082
+Document Title: theoretical investigation of the ablation of a glass-type
+heat protection shield of varied material properties
+at the stagnation point of a re-entering irbm .
+Rank          : 2
+Score         : 1.1111973792802219
+Document Id   : 453
+Document Name   : cranfield0453
+Document Title: the influence of two-dimensional stream shear on airfoil maximum lift .
+Rank          : 3
+Score         : 1.1111623027361774
+Document Id   : 1346
+Document Name   : cranfield1346
+Document Title: modulated entry .
+Rank          : 4
+Score         : 1.0799771081701186
+Document Id   : 164
+Document Name   : cranfield0164
+Document Title: an approximate analytical method for studying entry
+into planetary atospheres .
+Rank          : 5
+Score         : 1.0362180170474264
+Document Id   : 274
+Document Name   : cranfield0274
+Document Title: analysis of quartz and teflon shields for a particular
+re-entry mission .
+Rank          : 6
+Score         : 1.01954100680034
+Document Id   : 140
+Document Name   : cranfield0140
+Document Title: the determination of turbulent skin friction by means
+of pitot tubes .
+Rank          : 7
+Score         : 0.9377495010602723
+Document Id   : 1279
+Document Name   : cranfield1279
+Document Title: sublimation in a hypersonic environment .
+Rank          : 8
+Score         : 0.8919061906158774
+Document Id   : 353
+Document Name   : cranfield0353
+Document Title: the effect of helium injection at an axially symmetric stagnation
+point .
+Rank          : 9
+Score         : 0.8817522869957077
+Document Id   : 706
+Document Name   : cranfield0706
+Document Title: on som reciprocal relations in the theory of nonstationary flows .
+Rank          : 10
+Score         : 0.8766254802685031
+Document Id   : 1119
+Document Name   : cranfield1119
+Document Title: plastic stability theory of thin shells .
+
+Top 10 Documents (Weight-2): 
+Rank          : 1
+Score         : 2.9556285975324155
+Document Id   : 82
+Document Name   : cranfield0082
+Document Title: theoretical investigation of the ablation of a glass-type
+heat protection shield of varied material properties
+at the stagnation point of a re-entering irbm .
+Rank          : 2
+Score         : 2.7666123395978452
+Document Id   : 453
+Document Name   : cranfield0453
+Document Title: the influence of two-dimensional stream shear on airfoil maximum lift .
+Rank          : 3
+Score         : 2.758743766621873
+Document Id   : 140
+Document Name   : cranfield0140
+Document Title: the determination of turbulent skin friction by means
+of pitot tubes .
+Rank          : 4
+Score         : 2.7113813360754153
+Document Id   : 274
+Document Name   : cranfield0274
+Document Title: analysis of quartz and teflon shields for a particular
+re-entry mission .
+Rank          : 5
+Score         : 2.607389272643231
+Document Id   : 927
+Document Name   : cranfield0927
+Document Title: investigation of normal force distributions and wake
+vortex characteristics of bodies of revolution at supersonic
+speeds .
+Rank          : 6
+Score         : 2.4049760743294737
+Document Id   : 1346
+Document Name   : cranfield1346
+Document Title: modulated entry .
+Rank          : 7
+Score         : 2.325590089196644
+Document Id   : 353
+Document Name   : cranfield0353
+Document Title: the effect of helium injection at an axially symmetric stagnation
+point .
+Rank          : 8
+Score         : 2.2962680503644743
+Document Id   : 1075
+Document Name   : cranfield1075
+Document Title: an experimental and theoretical investigation of second-order supersonic
+ wing-body interference, for a non-lifting body with wings at incidence
+Rank          : 9
+Score         : 2.272918630716433
+Document Id   : 1119
+Document Name   : cranfield1119
+Document Title: plastic stability theory of thin shells .
+Rank          : 10
+Score         : 2.261243607258643
+Document Id   : 122
+Document Name   : cranfield0122
+Document Title: a simplified approximate method for the calculation of the pressure
+around conical bodies of arbitrary shape in supersonic and hypersonic
+flow .
+
+Query      : has anyone formally determined the influence of joule heating,  produced by the induced current,  in magnetohydrodynamic free convection flows under general conditions 
+Stemmed Query: ha,anyon,formal,determin,influenc,joul,heat,produc,induc,current,magnetohydrodynam,free,convect,flow,under,gener,condit
+
+Top 10 Documents (Weight-1): 
+Rank          : 1
+Score         : 2.4119679740060262
+Document Id   : 500
+Document Name   : cranfield0500
+Document Title: joule heating in magnetohydrodynamic free-convection
+flows .
+Rank          : 2
+Score         : 1.6767496699625533
+Document Id   : 268
+Document Name   : cranfield0268
+Document Title: several magnetohydrodynamic free-convection solutions .
+Rank          : 3
+Score         : 1.4106193386392332
+Document Id   : 88
+Document Name   : cranfield0088
+Document Title: magnetohydrodynamic free-convection pipe flow .
+Rank          : 4
+Score         : 1.3595462137946528
+Document Id   : 270
+Document Name   : cranfield0270
+Document Title: on combined free and forced convection laminar magnetohydrodynamic
+flow and heat transfer in channels with transverse
+magnetic field .
+Rank          : 5
+Score         : 1.2599395666620876
+Document Id   : 44
+Document Name   : cranfield0044
+Document Title: tip-bluntness effects on cone pressures at m=6.85.
+Rank          : 6
+Score         : 1.2543525743842516
+Document Id   : 416
+Document Name   : cranfield0416
+Document Title: methods of boundary-layer control for postponing and alleviating
+buffeting and other effects of shock-induced separation .
+Rank          : 7
+Score         : 1.2022174273902462
+Document Id   : 450
+Document Name   : cranfield0450
+Document Title: some physical interpretations of magnetohydrodynamic duct flows .
+Rank          : 8
+Score         : 1.1702853242711013
+Document Id   : 87
+Document Name   : cranfield0087
+Document Title: free-convection magnetohydrodynamic flow past a porous flat plate .
+Rank          : 9
+Score         : 1.0722890583368319
+Document Id   : 625
+Document Name   : cranfield0625
+Document Title: viscous and inviscid nonequilibrium gas flows .
+Rank          : 10
+Score         : 0.9641521602900835
+Document Id   : 798
+Document Name   : cranfield0798
+Document Title: interaction between shock waves and boundary layers, with a note on the
+effects of the interaction of the performance of supersonic intakes .
+
+Top 10 Documents (Weight-2): 
+Rank          : 1
+Score         : 4.206368556592098
+Document Id   : 500
+Document Name   : cranfield0500
+Document Title: joule heating in magnetohydrodynamic free-convection
+flows .
+Rank          : 2
+Score         : 3.9462430619949016
+Document Id   : 44
+Document Name   : cranfield0044
+Document Title: tip-bluntness effects on cone pressures at m=6.85.
+Rank          : 3
+Score         : 3.8979899738720665
+Document Id   : 268
+Document Name   : cranfield0268
+Document Title: several magnetohydrodynamic free-convection solutions .
+Rank          : 4
+Score         : 3.7350500312983645
+Document Id   : 88
+Document Name   : cranfield0088
+Document Title: magnetohydrodynamic free-convection pipe flow .
+Rank          : 5
+Score         : 3.5515003616165957
+Document Id   : 416
+Document Name   : cranfield0416
+Document Title: methods of boundary-layer control for postponing and alleviating
+buffeting and other effects of shock-induced separation .
+Rank          : 6
+Score         : 3.4797603816035396
+Document Id   : 375
+Document Name   : cranfield0375
+Document Title: steady flow in the laminar boundary layer of a gas .
+Rank          : 7
+Score         : 3.3772162385471627
+Document Id   : 270
+Document Name   : cranfield0270
+Document Title: on combined free and forced convection laminar magnetohydrodynamic
+flow and heat transfer in channels with transverse
+magnetic field .
+Rank          : 8
+Score         : 3.134200477052942
+Document Id   : 625
+Document Name   : cranfield0625
+Document Title: viscous and inviscid nonequilibrium gas flows .
+Rank          : 9
+Score         : 3.0943871533751417
+Document Id   : 123
+Document Name   : cranfield0123
+Document Title: the downstream influence of mass transfer at the nose
+of a slender cone .
+Rank          : 10
+Score         : 3.0702442459502706
+Document Id   : 572
+Document Name   : cranfield0572
+Document Title: boundary layer displacement and leading edge bluntness effects in high
+temperature hypersonic flow .
